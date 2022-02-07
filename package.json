@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "basiconodedio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiromarJunior/API-NodeJs-DIO.git"
+  },
+  "author": "Miromar Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiromarJunior/API-NodeJs-DIO/issues"
+  },
+  "homepage": "https://github.com/MiromarJunior/API-NodeJs-DIO#readme",
+  "description": ""
+}
