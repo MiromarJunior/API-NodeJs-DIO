@@ -1,0 +1,13 @@
+[
+	{
+		"id": "1",
+		"nome": "Miromar",
+		"cpf": "00161637108",
+		"sexo": "Masculino"
+	},
+	{
+		"id": "2",
+		"nome": "Aline",
+		"cpf": "02685252185"
+	}
+]
